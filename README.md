@@ -2,6 +2,11 @@
 
 > **A tactile digital monograph exploring the visceral physics of flat graphite, cold-press cotton, and smudge dynamics.**
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDashrath175%2FMonumental&project-name=monumental)
+
+**Live Demo**: [https://monumental.vercel.app](https://monumental.vercel.app)  
+*(Alternative / Custom Subdomain: [https://the-anatomy-of-a-stroke.vercel.app](https://the-anatomy-of-a-stroke.vercel.app))*
+
 Every monument was once a spasm of lead. We lay the graphite on its side and drag mass out of the white silence — one smudgy breath at a time.
 
 ---
